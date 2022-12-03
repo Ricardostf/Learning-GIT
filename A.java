@@ -20,9 +20,12 @@ public class A {
     A2 = x;
   }
   public void MA1(){
-    system.out.println("MA1");
+    System.out.println("MA1");
   }
   public void MA2(){
-    system.out.println("MA2");
+    System.out.println("MA2");
+  }
+  public void MA3(){
+    System.out.println("Alteração a classe A partir do clone");
   }
 }

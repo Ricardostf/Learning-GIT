@@ -20,9 +20,9 @@ public class B {
     B2 = x;
   }
   public void MB1(){
-    system.out.println("MB1");
+    System.out.println("MB1");
   }
   public void MB2(){
-    system.out.println("MB2");
+    System.out.println("MB2");
   }
 }
